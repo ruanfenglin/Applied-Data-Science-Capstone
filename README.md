@@ -1,2 +1,2 @@
 # Applied-Data-Science-Capstone
-**The capstone of IBM Data Science Professional Certification in coursera**
+# **The capstone project of IBM Data Science Professional Certification in coursera**
